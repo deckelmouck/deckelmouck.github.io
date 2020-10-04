@@ -1,9 +1,9 @@
 ## Welcome to deckelmouck's GitHub Pages
 
 ### first release on GitHub
-I just tried my first release on GitHub.
+I just build a small CookieClicker app.
 
-Check it out: https://github.com/deckelmouck/CookieClicker/releases/tag/v1.0
+Check it out: https://github.com/deckelmouck/CookieClicker
 
 Cheers
 
