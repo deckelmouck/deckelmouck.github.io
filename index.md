@@ -1,5 +1,10 @@
 ## Welcome to deckelmouck's GitHub Pages
 
+### finished first book in 2021
+#### Atomic Habits: Tiny Changes, Remarkable Results
+Yesterday I finished my first book in 2021. I just needed two weeks and learned a lot for myself and about the process to get better and reach some goals I want to get checked in 2021.
+So, my first change was to adjust my goals and divide them into smaller steps and some new habits to get a better track of these small issues.
+
 ### first release on GitHub
 I just build a small CookieClicker app.
 
