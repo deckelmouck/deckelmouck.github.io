@@ -2,6 +2,20 @@
 
 ### completed other books in 2021
 
+#### Unsere Welt neu denken - Maja Göpel
+
+#### Hope Street - Campino
+
+#### Die Bullet-Journal Methode - Ryder Carroll
+
+#### Wir sprechen über Eulen und Diabetes - David Sedaris
+
+#### Greenlights - Matthew McConaughew
+
+#### Was Weiße Menschen Nicht Über Rassismus Hören Wollen Aber Sollten
+
+#### Die Vermessung der Welt
+
 #### Niki Lauda
 
 #### Got2Go - Lea Rieck
